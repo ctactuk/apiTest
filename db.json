@@ -1,8 +1,8 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "users": [
+    { "id": 1, "title": "ctactuk", "password": "123456", "name": "Carlos", "last_name": "Tactuk" },
+    { "id": 2, "title": "gtactuk", "password": "123456", "name": "George", "last_name": "Tactuk" },
+    { "id": 3, "title": "etactuk", "password": "123456", "name": "Enmanuel", "last_name": "Tactuk" },
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
