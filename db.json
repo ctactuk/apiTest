@@ -1,14 +1,7 @@
 {
   "users": [
-    { "id": 1, "username": "ctactuk", "password": "123456", "name": "Carlos Tactuk" },
-    { "id": 2, "username": "gtactuk", "password": "123456", "name": "George Tactuk" },
-    { "id": 3, "username": "etactuk", "password": "123456", "name": "Enmanuel Tactuk" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    { "id": 1, "username": "ctactuk", "password": "123456", "name": "Carlos Tactuk", "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJjdGFjdHVrIiwicGFzc3dvcmQiOiIxMjM0NTYiLCJuYW1lIjoiQ2FybG9zIFRhY3R1ayJ9.4DN-gCtD2pwZ5yb24MpgGe3pdcO3D4EyNR0Zn-1wBvE" },
+    { "id": 2, "username": "gtactuk", "password": "123456", "name": "George Tactuk", "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MiwidXNlcm5hbWUiOiJndGFjdHVrIiwicGFzc3dvcmQiOiIxMjM0NTYiLCJuYW1lIjoiR2VvcmdlIFRhY3R1ayJ9.9XArWAFp2kzXmNjzyKK6MfpjAL3mPOFslUaFO3x_0is" },
+    { "id": 3, "username": "etactuk", "password": "123456", "name": "Enmanuel Tactuk", "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MywidXNlcm5hbWUiOiJldGFjdHVrIiwicGFzc3dvcmQiOiIxMjM0NTYiLCJuYW1lIjoiRW5tYW51ZWwgVGFjdHVrIn0.j5XsMLfGs-vr7HMqazyhvI0y3fBOnapHSEzVbTVxjhk" }
+  ]
 }
